@@ -8,4 +8,5 @@ The Artificial Intelligence is to be added later
 
  - To install dependencies run `mvn install`
  - To test your solution run `mvn test`
+ - To run Robot run `java Robot suggest`
 
